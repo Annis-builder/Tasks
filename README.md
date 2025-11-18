@@ -9,13 +9,17 @@
   - 阶段二
     - [Git学习笔记](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
     - [Git提交练习文档](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/Git%E6%8F%90%E4%BA%A4%E7%BB%83%E4%B9%A0%E6%96%87%E6%A1%A3.md)
+
+
+
+
   - 阶段三
     - [HTML学习笔记](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
     - [CSS学习笔记](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
     - [JS学习笔记](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/JavaScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
     - [编后感](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)
     - [静态页面](https://github.com/Annis-builder/Tasks/tree/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/JavaScript%E5%AD%A6%E4%B9%A0)
-      编好了但没部署上去,
+      编好了但没部署上去[源代码长这样](https://github.com/Annis-builder/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%BB%BB%E5%8A%A1/JavaScript%E5%AD%A6%E4%B9%A0/index.html)
 
 
 
